@@ -1,6 +1,7 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Dao Minh Khoi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="codingK" align="right"/>
 - 🌱 I’m currently learning **Reactjs, Nextjs - Frontend and Nestjs - Backend**
 
 - 💬 Ask me about **React**
