@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Dao Minh Khoi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="codingK" align="right"/>
-- 🌱 I’m currently learning **Reactjs, Nextjs - Frontend and Nestjs - Backend**
+- 🌱 I’m currently learning **Reactjs, Nextjs - Frontend and Nestjs,Golang - Backend**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React - Nodejs - Golang**
 
 - 📫 How to reach me **gogotuyer22@gmail.com**
 
