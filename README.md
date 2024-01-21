@@ -1,4 +1,6 @@
 ![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
+
+<a href="https://app.daily.dev/khoidaooo"><img src="https://api.daily.dev/devcards/e019c3d0b66447129578e23e3569b197.png?r=eki" width="400" alt="Đào Minh Khôi's Dev Card"/></a>
 <h1 align="center">Hello 👋, I'm Dao Minh Khoi</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="codingK" align="right"/>
