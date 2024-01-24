@@ -1,4 +1,4 @@
-![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)
+![MasterHead](https://res.cloudinary.com/daily-now/image/upload/f_auto,q_auto/v1/posts/38c7876a456290cf89c0bf1ee7990603?_a=AQAEufR)
 
 <h1 align="center">Hello 👋, I'm Dao Minh Khoi</h1>
 <h3 align="center">A passionate software engineer</h3>
